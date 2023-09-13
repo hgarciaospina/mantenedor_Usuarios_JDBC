@@ -1,0 +1,8 @@
+
+g	java:S112G"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ƒõ¼‘§1
+j
+java:S1659"HDeclare "lblPassword" and all following declarations on a separate line.(‡¨þÁøÿÿÿÿ8•õ¼‘§1
+H
+java:S1659"&Declare "txtEmail" on a separate line.(¶¶Ðûùÿÿÿÿ8•õ¼‘§1
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ8—õ¼‘§1
